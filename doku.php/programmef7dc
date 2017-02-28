@@ -1,0 +1,26 @@
+====== Programme ======
+
+Téléchargez le programme au format PDF : {{programme.pdf}}
+
+Voici le programme de la journée, vous pouvez télécharger les présentations au format PDF:
+
+^ Horaires ^ Intervenant ^ Société ^ Présentation  ^ Téléchargement ^
+^9h30 | //Accueil//|| 
+^10h00| Stéphane Schildknecht | [[http://www.Dalibo.com/|Dalibo]] | **Ouverture de la conférence** | {{10h00_introduction-stephane_schildknecht.pdf|PDF}} [[http://www.dailymotion.com/video/x7fwyr_pgdayfr2008-stephane-schildknecht-o_tech|Video]] |
+^10h10| Guillaume Smet | [[http://www.openwide.fr|Open Wide]] | **4 ans de PostgreSQL chez Cityvox**| {{10h10_cityvox_guillaume_smet.pdf|PDF}} [[http://www.dailymotion.com/video/x7fxac_pgdayfr2008-guillaume-smet-4-ans-de_tech|Video]] |
+^10h55| //Café//||
+^11h10| Olivier Courtin | [[http://www.camptocamp.com/|CamptoCamp]]| **La cartouche spatiale PostGIS** | {{11h10_postgis_nicolas_ribot.pdf|PDF}} [[http://www.dailymotion.com/video/x7gm9p_pgdayfr2008-olivier-courtin-la-cart_tech|Video]]  |
+^12h00| //Pause Repas//| 
+^14h00| Christophe Chauvet | [[http://www.syleam.fr|Syleam]]| **TinyERP et PostgreSQL** | {{14h00_tinyerp_christophe_chauvet.pdf|PDF}} [[http://www.dailymotion.com/video/x7g8um_pgdayfr2008-christophe-chauvet-tiny_tech|Video]]|
+^14h45| Vincent Picavet | [[http://www.makina-corpus.com|Makina Corpus]] |**PostgreSQL dans les architectures SIG web** | {{14h45_sig_web_vincent_picavet.pdf|PDF}} [[http://www.dailymotion.com/video/x7g9b7_pgdayfr2008-vincent-picavet-pg-arch_tech|Video]] |
+^15h30| //Café//||
+^15h45| Jean-Samuel Reynaud|[[http://www.elma.fr|Elma]]| **Retour d'expérience** | {{15h45_usecases_jean-samuel_reynaud.pdf|PDF}} [[http://www.dailymotion.com/video/x7ik4k_pgdayfr2008-jeansamuel-reynaud-pg-u_tech|Video]] |
+^16h30| //Interventions éclair//|
+^16h30| Jean-Christophe Arnu| [[http://www.c-s.fr|C-S]] | **WALs et PITR** | {{16h30-1-pitr-walshipping_jean-christophe_arnu.pdf|PDF}}  [[http://www.dailymotion.com/video/x7jzzs_pgdayfr2008-jeanchristophe-arnu-wal_tech|Vidéo]] |
+^16h45| Ludovic Levesque | [[http://www.fotolia.fr|Fotolia]] | **Londiste** | {{16h30-2_londiste_ludovic_levesque.pdf|PDF}} [[http://www.dailymotion.com/video/x7id8u_pgdayfr2008ludoviclevesquelondiste_tech|Video]]| 
+^17h00| Thomas Reiss | [[http://www.PostgreSQL.fr|PostgreSQLFr]] | **Anonymisation** | {{16h30-3-anonymisation_thomas_reiss.pdf|PDF}} [[http://www.dailymotion.com/PostgreSQLFR/video/x7jmda_pgdayfr2008-thomas-reiss-anonymisat_sport|Vidéo]]|
+^17h15| Damien Clochard | [[http://www.Dalibo.com|Dalibo]] | **Livre Blanc** | {{16h30-4-livre_blanc-damien_clochard.pdf|PDF}} [[http://www.dailymotion.com/PostgreSQLFR/video/x7jmh9_pgdayfr2008-damien-clochard-livre-b_tech|Vidéo]] |
+^17h30| Jean-Christophe Arnu| [[http://www.c-s.fr|C-S]] |**Conclusion**| {{17h45-conclusion-jean-christophe_arnu.pdf|PDF}} [[http://www.dailymotion.com/PostgreSQLFR/video/x7jjs2_pgdayfr-2008-keynote-de-clture-par_tech|Video]] |
+
+
+Vous pouvez retrouver l'ensemble des vidéos du PGDay.fr 2008 sur [[http://www.dailymotion.com/PostgreSQLFR|notre page dailymotion]]
